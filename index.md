@@ -8,12 +8,6 @@ I am a Master's student at the **POSTECH NLP Lab** (Pohang University of Science
 
 My academic journey is deeply rooted in my practical experience teaching high school mathematics. While working with a diverse range of students, I witnessed firsthand the limitations of one-size-fits-all education and realized the critical need for **personalized learning**. This classroom experience serves as the guiding principle of my research: *bridging the gap between advanced AI techniques and real-world educational needs.*
 
-Currently, at the **Graduate School of Artificial Intelligence (GSAI), POSTECH**, I am developing AI systems designed to diagnose student knowledge states and generate personalized learning paths. My goal is to empower every learner to navigate their education at their own pace and in their own direction, ensuring that no student is left behind in the era of AI.
-
-## Research Interests
-
-- **Knowledge Tracing, Student Simulation, AI in Education**
-
 ## News
 
 - **[Apr. 2026]** Our paper about Reading Comprehension Item Generation is accepted to **ACL 2026 (Main)**!
