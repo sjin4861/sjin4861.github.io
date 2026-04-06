@@ -1,22 +1,24 @@
 main:
+  - title: "A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation"
+    authors: "Seonjeong Hwang, <strong>Jun Seo</strong>, Hyounghun Kim, Gary Lee"
+    conference: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)"
+    conference_short: "ACL Main"
+    image: "assets/img/publication_preview/acl2026_main.png" # 썸네일 이미지 경로
+    pdf: "https://sjin4861.github.io" # 실제 PDF 링크로 교체
+    notes: "Accepted at ACL 2026 Main"
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing"
+    authors: "<strong>Jun Seo</strong>*, Sangwon Ryu*, Heejin Do, Hyounghun Kim, Gary Lee"
+    conference: "Findings of the Association for Computational Linguistics (ACL Findings)"
+    conference_short: "ACL Findings"
+    image: "assets/img/publication_preview/acl2026_findings.png"
+    pdf: "https://sjin4861.github.io"
+    notes: "Accepted at ACL 2026 Findings"
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Estimated Tardiness-Based Reinforcement Learning Solution to Repeatable Job-Shop Scheduling Problems"
+    authors: "Chi Yeong Heo*, <strong>Jun Seo</strong>*, Yonggang Kim, Yohan Kim, Taewoon Kim*"
+    conference: "Processes, vol. 13, no. 1, p. 62"
+    conference_short: "MDPI"
+    image: "assets/img/publication_preview/mdpi2024.png"
+    pdf: "https://www.mdpi.com/3114726"
+    code: "https://github.com/Huch0/RL-Scheduler.git"

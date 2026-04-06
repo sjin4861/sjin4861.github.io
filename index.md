@@ -4,20 +4,38 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Master's student at the **POSTECH NLP Lab** (Pohang University of Science and Technology), Republic of Korea, where I am privileged to be advised by **Prof. Gary Geunbae Lee** and **Prof. Hyounghun Kim**. My research lies at the intersection of **Natural Language Processing (NLP)** and **AI in Education (AIEd)**, with a primary focus on **Knowledge Tracing** and **Student Simulation**.
+
+My academic journey is deeply rooted in my practical experience teaching high school mathematics. While working with a diverse range of students, I witnessed firsthand the limitations of one-size-fits-all education and realized the critical need for **personalized learning**. This classroom experience serves as the guiding principle of my research: *bridging the gap between advanced AI techniques and real-world educational needs.*
+
+Currently, at the **Graduate School of Artificial Intelligence (GSAI), POSTECH**, I am developing AI systems designed to diagnose student knowledge states and generate personalized learning paths. My goal is to empower every learner to navigate their education at their own pace and in their own direction, ensuring that no student is left behind in the era of AI.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **AI in Education:** Knowledge Tracing, Student Simulation, Reading Comprehension Item Generation
+- **Natural Language Processing:** Large Language Models (LLMs) for education, Multi-Agent Frameworks
+- **Reinforcement Learning:** Application in scheduling and optimization problems
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Apr. 2026]** Our paper about Reading Comprehension Item Generation is accepted to **ACL 2026 (Main)**!
+- **[Apr. 2026]** Our work on Knowledge Tracing is accepted to **ACL 2026 (Findings)**!
+- **[Nov. 2025]** Awarded the **STEM Master’s Excellence Scholarship** by Korea Student Aid Foundation.
+- **[Sep. 2025]** Won the **1st Place (Grand Prize)** at the POSTECH Digital Twin Chatbot Hackathon.
+- **[Sep. 2025]** Started my M.S. journey at GSAI, POSTECH.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+## Teaching Experience
+
+- **Teaching Assistant** @ POSCO Youth AI & Big Data Academy (Natural Language Generation), *Winter 2025*
+- **Teaching Assistant** @ PNU (Software Design and Experiment), *Spring 2025*
+- **Mathematics Instructor** @ 미주학원, *Dec. 2022 – Jun 2025*
+- **Math & Physics Mentor** @ 이투스 247, *2021*
+
+## Honors & Awards
+
+- **POSTECH Digital Twin Chatbot Hackathon**, 1st Place (Grand Prize), *2025*
+- **STEM Master’s Excellence Scholarship**, Korea Student Aid Foundation, *2025*
+- **Samsung Dream Scholarship Foundation Fellow**, *2018 – 2025*
+- **PCCP Lv.3 (Python3)**, *2024*
