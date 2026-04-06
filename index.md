@@ -12,9 +12,7 @@ Currently, at the **Graduate School of Artificial Intelligence (GSAI), POSTECH**
 
 ## Research Interests
 
-- **AI in Education:** Knowledge Tracing, Student Simulation, Reading Comprehension Item Generation
-- **Natural Language Processing:** Large Language Models (LLMs) for education, Multi-Agent Frameworks
-- **Reinforcement Learning:** Application in scheduling and optimization problems
+- **Knowledge Tracing, Student Simulation, AI in Education**
 
 ## News
 
@@ -24,7 +22,6 @@ Currently, at the **Graduate School of Artificial Intelligence (GSAI), POSTECH**
 - **[Sep. 2025]** Won the **1st Place (Grand Prize)** at the POSTECH Digital Twin Chatbot Hackathon.
 - **[Sep. 2025]** Started my M.S. journey at GSAI, POSTECH.
 
-{% include_relative _includes/publications.md %}
 
 ## Teaching Experience
 
@@ -39,3 +36,5 @@ Currently, at the **Graduate School of Artificial Intelligence (GSAI), POSTECH**
 - **STEM Master’s Excellence Scholarship**, Korea Student Aid Foundation, *2025*
 - **Samsung Dream Scholarship Foundation Fellow**, *2018 – 2025*
 - **PCCP Lv.3 (Python3)**, *2024*
+
+{% include_relative _includes/publications.md %}
