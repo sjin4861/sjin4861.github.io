@@ -15,7 +15,6 @@ main:
   - title: "Estimated Tardiness-Based Reinforcement Learning Solution to Repeatable Job-Shop Scheduling Problems"
     authors: "Chi Yeong Heo*, <strong>Jun Seo</strong>*, Yonggang Kim, Yohan Kim, Taewoon Kim*"
     conference: "Processes, vol. 13, no. 1, p. 62"
-    conference_short: "MDPI"
     image: "assets/img/publication_preview/etd.png"
     pdf: "https://www.mdpi.com/3114726"
     code: "https://github.com/Huch0/RL-Scheduler.git"
