@@ -16,19 +16,22 @@ My academic journey is deeply rooted in my practical experience teaching high sc
 - **[Sep. 2025]** Won the **1st Place (Grand Prize)** at the POSTECH Digital Twin Chatbot Hackathon.
 - **[Sep. 2025]** Started my M.S. journey at GSAI, POSTECH.
 
+## Publications
+
+{% include_relative _includes/publications.md %}
 
 ## Teaching Experience
 
-- **Teaching Assistant** @ POSCO Youth AI & Big Data Academy, *Winter 2025*
-    Natural Language Generation
-- **Teaching Assistant** @ Pusan National University, *Spring 2025*
-    Software Design and Experiment
-- **Mathematics Instructor** @ Miju Academy, *Dec. 2022 – Jun 2025*
-    Korean SAT Mathematics
-- **Math & Physics Mentor** @ ETOOS 247, *2021*
-    Korean SAT Mathematics
-- **Math Mentor** @ Yangjeong Youth Center, *2020*
-    Korean GED Mathematics Education Volunteer
+* **Teaching Assistant** @ POSCO Youth AI & Big Data Academy, *Winter 2025*
+  Natural Language Generation
+* **Teaching Assistant** @ Pusan National University, *Spring 2025*
+  Software Design and Experiment
+* **Mathematics Instructor** @ Miju Academy, *Dec. 2022 – Jun. 2025*
+  Korean SAT Mathematics
+* **Math & Physics Mentor** @ ETOOS 247, *2021*
+  Korean SAT Mathematics
+* **Math Mentor** @ Yangjeong Youth Center, *2020*
+  Korean GED Mathematics Education Volunteer
 
 ## Honors & Awards
 
@@ -36,5 +39,3 @@ My academic journey is deeply rooted in my practical experience teaching high sc
 - **STEM Master’s Excellence Scholarship**, Korea Student Aid Foundation, *2025*
 - **Samsung Dream Scholarship Foundation Fellow**, *2018 – 2025*
 - **PCCP Lv.3 (Python3)**, *2024*
-
-{% include_relative _includes/publications.md %}
