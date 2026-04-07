@@ -3,8 +3,8 @@ main:
     authors: "Seonjeong Hwang, <strong>Jun Seo</strong>, Hyounghun Kim, Gary Lee"
     conference: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)"
     conference_short: "ACL Main"
-    image: "assets/img/publication_preview/acl2026_main.png" # 썸네일 이미지 경로
-    pdf: "https://sjin4861.github.io" # 실제 PDF 링크로 교체
+    image: "assets/img/publication_preview/acl2026_main.png" 
+    pdf: "https://sjin4861.github.io"
     notes: "Accepted at ACL 2026 Main"
 
   - title: "Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing"

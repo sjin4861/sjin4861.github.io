@@ -11,7 +11,7 @@ My academic journey is deeply rooted in my practical experience teaching high sc
 ## News
 
 - **[Apr. 2026]** Our paper about Reading Comprehension Item Generation is accepted to **ACL 2026 (Main)**!
-- **[Apr. 2026]** Our work on Knowledge Tracing is accepted to **ACL 2026 (Findings)**!
+- **[Apr. 2026]** Our paper about Knowledge Tracing is accepted to **ACL 2026 (Findings)**!
 - **[Nov. 2025]** Awarded the **STEM Master’s Excellence Scholarship** by Korea Student Aid Foundation.
 - **[Sep. 2025]** Won the **1st Place (Grand Prize)** at the POSTECH Digital Twin Chatbot Hackathon.
 - **[Sep. 2025]** Started my M.S. journey at GSAI, POSTECH.
@@ -19,10 +19,16 @@ My academic journey is deeply rooted in my practical experience teaching high sc
 
 ## Teaching Experience
 
-- **Teaching Assistant** @ POSCO Youth AI & Big Data Academy (Natural Language Generation), *Winter 2025*
-- **Teaching Assistant** @ PNU (Software Design and Experiment), *Spring 2025*
-- **Mathematics Instructor** @ 미주학원, *Dec. 2022 – Jun 2025*
-- **Math & Physics Mentor** @ 이투스 247, *2021*
+- **Teaching Assistant** @ POSCO Youth AI & Big Data Academy, *Winter 2025*
+    Natural Language Generation
+- **Teaching Assistant** @ Pusan National University, *Spring 2025*
+    Software Design and Experiment
+- **Mathematics Instructor** @ Miju Academy, *Dec. 2022 – Jun 2025*
+    Korean SAT Mathematics
+- **Math & Physics Mentor** @ ETOOS 247, *2021*
+    Korean SAT Mathematics
+- **Math Mentor** @ Yangjeong Youth Center, *2020*
+    Korean GED Mathematics Education Volunteer
 
 ## Honors & Awards
 

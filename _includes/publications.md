@@ -1,24 +1,56 @@
-main:
-  - title: "A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation"
-    authors: "Seonjeong Hwang, <strong>Jun Seo</strong>, Hyounghun Kim, Gary Lee"
-    conference: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)"
-    conference_short: "ACL Main"
-    image: "assets/img/publication_preview/acl2026_main.png" # 썸네일 이미지 경로
-    pdf: "https://sjin4861.github.io" # 실제 PDF 링크로 교체
-    notes: "Accepted at ACL 2026 Main"
+<h2 id="publications" style="margin: 2px 0 12px;">Publications</h2>
 
-  - title: "Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing"
-    authors: "<strong>Jun Seo</strong>*, Sangwon Ryu*, Heejin Do, Hyounghun Kim, Gary Lee"
-    conference: "Findings of the Association for Computational Linguistics (ACL Findings)"
-    conference_short: "ACL Findings"
-    image: "assets/img/publication_preview/acl2026_findings.png"
-    pdf: "https://sjin4861.github.io"
-    notes: "Accepted at ACL 2026 Findings"
+<div class="publications">
+  <ol class="bibliography">
+    {% for link in site.data.publications.main %}
+    <li style="margin-bottom: 24px;">
+      <div class="pub-row" style="display: flex; gap: 20px; align-items: flex-start;">
+        <div class="col-sm-3 abbr" style="width: 180px; flex-shrink: 0;">
+          {% if link.image %}
+          <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto;" alt="publication preview">
+          {% endif %}
+          {% if link.conference_short %}
+          <div style="margin-top: 6px;">
+            <abbr class="badge">{{ link.conference_short }}</abbr>
+          </div>
+          {% endif %}
+        </div>
 
-  - title: "Estimated Tardiness-Based Reinforcement Learning Solution to Repeatable Job-Shop Scheduling Problems"
-    authors: "Chi Yeong Heo*, <strong>Jun Seo</strong>*, Yonggang Kim, Yohan Kim, Taewoon Kim*"
-    conference: "Processes, vol. 13, no. 1, p. 62"
-    conference_short: "MDPI"
-    image: "assets/img/publication_preview/mdpi2024.png"
-    pdf: "https://www.mdpi.com/3114726"
-    code: "https://github.com/Huch0/RL-Scheduler.git"
+```
+    <div class="col-sm-9" style="flex: 1;">
+      <div class="title">
+        <a href="{{ link.pdf }}">{{ link.title }}</a>
+      </div>
+      <div class="author">{{ link.authors }}</div>
+      <div class="periodical">
+        <em>{{ link.conference }}</em>
+      </div>
+
+      <div class="links" style="margin-top: 6px;">
+        {% if link.pdf %}
+        <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size: 12px;">PDF</a>
+        {% endif %}
+        {% if link.code %}
+        <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size: 12px;">Code</a>
+        {% endif %}
+        {% if link.page %}
+        <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size: 12px;">Project Page</a>
+        {% endif %}
+        {% if link.bibtex %}
+        <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size: 12px;">BibTeX</a>
+        {% endif %}
+        {% if link.notes %}
+        <strong><i style="color: #e74d3c;">{{ link.notes }}</i></strong>
+        {% endif %}
+        {% if link.others %}
+        {{ link.others }}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</li>
+{% endfor %}
+```
+
+  </ol>
+</div>
