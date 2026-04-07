@@ -16,9 +16,7 @@ My academic journey is deeply rooted in my practical experience teaching high sc
 - **[Sep. 2025]** Won the **1st Place (Grand Prize)** at the POSTECH Digital Twin Chatbot Hackathon.
 - **[Sep. 2025]** Started my M.S. journey at GSAI, POSTECH.
 
-{::nomarkdown}
 {% include_relative _includes/publications.md %}
-{::nomarkdown}
 
 ## Teaching Experience
 
