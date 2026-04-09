@@ -6,7 +6,7 @@ main:
     pdf: "https://sjin4861.github.io"
 
   - title: "Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing"
-    authors: "<strong>Jun Seo</strong>*, Sangwon Ryu*, Heejin Do, Hyounghun Kim, Gary Lee"
+    authors: "<strong>Jun Seo</strong>*, Sangwon Ryu*, Heejin Do†, Hyounghun Kim, Geunbae Lee†"
     conference: "ACL Findings 2026"
     image: "assets/img/publication_preview/baim.png"
     pdf: "https://sjin4861.github.io"
