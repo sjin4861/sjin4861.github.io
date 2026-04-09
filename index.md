@@ -27,7 +27,7 @@ My academic journey is deeply rooted in my practical experience teaching high sc
 * **Mathematics Instructor** @ Miju Academy, *Dec. 2022 – Jun. 2025*
   Korean SAT Mathematics
 * **Math & Physics Mentor** @ ETOOS 247, *2021*
-  Korean SAT Mathematics
+  Korean SAT Mathematics & Physics
 * **Math Mentor** @ Yangjeong Youth Center, *2020*
   Korean GED Mathematics Education Volunteer
 
