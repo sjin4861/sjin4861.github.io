@@ -12,7 +12,7 @@ My academic journey is deeply rooted in my practical experience teaching high sc
 
 - **[Apr. 2026]** Our paper about Automatic Item Generation is accepted to **ACL 2026 (Main)**!
 - **[Apr. 2026]** Our paper about Knowledge Tracing is accepted to **ACL 2026 (Findings)**!
-- **[Nov. 2025]** Awarded the **STEM Master’s Excellence Scholarship** by Korea Student Aid Foundation.
+- **[Nov. 2025]** Awarded the **STEM Master’s Excellence Scholarship** (Fall 2025) by Korea Student Aid Foundation.
 - **[Sep. 2025]** Won the **1st Place (Grand Prize)** at the POSTECH Digital Twin Chatbot Hackathon.
 - **[Sep. 2025]** Started my M.S. journey at GSAI, POSTECH.
 
