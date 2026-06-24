@@ -1,0 +1,123 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper, total={6in, 9.2in}]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{kotex}  % 한글 지원
+
+% 페이지 스타일
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+
+% 문단 설정
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.5pt}
+
+% 섹션 제목 줄 그이기 설정
+\titleformat{\section}
+  {\large\bfseries\uppercase}{}{0em}{}
+\titlespacing*{\section}{0pt}{1.5ex}{0.8ex}
+\newcommand{\sectionline}{\vspace{-0.5ex}\noindent\rule{\textwidth}{0.4pt}\vspace{0.6ex}}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE \textbf{Jun Seo}}\\
+  \href{mailto:sjin4861@postech.ac.kr}{E-mail : sjin4861@postech.ac.kr}
+  \quad
+  \href{https://sjin4861.github.io/}{Website}
+\end{center}
+\vspace{4pt}
+
+% ---------- RESEARCH INTEREST ----------
+\section*{RESEARCH INTEREST}
+\sectionline
+
+Knowledge Tracing, Student Simulation, AI in Education 
+\\
+% ---------- EDUCATION ----------
+\section*{EDUCATION}
+\sectionline
+\\
+\textbf{POSTECH} \hfill Pohang, South Korea \\
+M.S. in Graduate School of Artificial Intelligence \hfill Sep 2025 -- Aug 2027 (Expected) \\
+\textit{Advisor: Prof. Gary Geunbae Lee and Prof. Hyounghun Kim} \\
+\textit{GPA: 4.12 / 4.3} \\
+\textbf{Pusan National University} \hfill Busan, South Korea\\
+B.S. in Computer Science, Minor in Mathematics \hfill Mar 2020 -- Aug 2025\\
+\textit{GPA: 4.32 / 4.5}%, Rank: 2/128}\\
+
+% ---------- PUBLICATION ----------
+\vspace{10pt}
+\section*{PUBLICATION}
+\sectionline
+
+\begin{enumerate}[leftmargin=1.2em, itemsep=4pt]
+
+  \item Sangwon Ryu, Heejin Do, \underline{Jun Seo}, Daehui Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok.
+  \textit{"Segment-level Tree Search for Long Meeting Document Summarization."}
+  \textit{Interspeech}, 2026.
+  \href{https://arxiv.org/pdf/2606.08445}{[Paper]}
+
+  \item Seonjeong Hwang, \underline{Jun Seo}, Hyounghun Kim, Gary Geunbae Lee.
+  \textit{"A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation."}
+  \textit{ACL Main}, 2026.
+  \href{https://arxiv.org/pdf/2605.19316}{[Paper]}
+
+  \item \underline{Jun Seo}\textsuperscript{*}, Sangwon Ryu\textsuperscript{*}, Heejin Do\textsuperscript{\dag}, Hyounghun Kim, Gary Geunbae Lee\textsuperscript{\dag}.
+  \textit{“Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing.”}
+  \textit{ACL Findings}, 2026.
+  \href{https://arxiv.org/abs/2604.08260}{[Paper]}
+  \href{https://github.com/sjin4861/BAIM.git}{[Code]}
+
+  \item Chi Yeong Heo\textsuperscript{*}, \underline{Jun Seo}\textsuperscript{*}, Yonggang Kim, Yohan Kim, Taewoon Kim\textsuperscript{*}.
+  \textit{“Estimated Tardiness-Based Reinforcement Learning Solution to Repeatable Job-Shop Scheduling Problems.”}
+  \textit{Processes, vol. 13, no. 1, p. 62}, 2024.
+  \href{https://www.mdpi.com/3114726}{[Paper]}
+  \href{https://github.com/Huch0/RL-Scheduler.git}{[Code]}
+
+\end{enumerate}
+
+\vspace{2pt}
+\textsuperscript{*} Equal contribution \quad \textsuperscript{\dag} Corresponding author
+
+
+\vspace{10pt}
+% ---------- TEACHING EXPERIENCE ----------
+\section*{TEACHING EXPERIENCE}
+\sectionline
+
+\textbf{Teaching Assistant, POSCO Youth AI \& Big Data Academy} \hfill Winter 2025\\
+Natural Language Generation \\
+\textbf{Teaching Assistant, Pusan National University} \hfill Spring 2025\\
+Software Design and Experiment \\
+\textbf{Mathematics Instructor, Miju Academy} \hfill Dec 2022 -- Jun 2025\\
+Korean SAT Mathematics \\
+\textbf{Math \& Physics Mentor, ETOOS 247} \hfill Mar 2021 -- Jun 2021\\
+Korean SAT Mathematics and Physics \\
+\textbf{Math Mentor, Yangjeong Youth Center} \hfill Feb 2020 -- May 2021\\
+GED Mathematics Education Volunteer
+
+% ---------- HONORS & AWARDS ----------
+\vspace{10pt}
+\section*{HONORS \& AWARDS}
+\sectionline
+
+- STEM Master’s Excellence Scholarship (full-semester award) \hfill June 2026\\
+- POSTECH Digital Twin Chatbot Hackathon, 1st Place (Grand Prize) \hfill Sep 2025\\
+- STEM Master’s Excellence Scholarship (one-semester award) \hfill Fall 2025\\
+– Samsung Dream Scholarship Foundation Fellow \hfill May 2018 -- Aug 2025\\
+– PCCP Lv.3 (Python3) \hfill Jun 2024\\
+
+% ---------- SKILLS ----------
+\section*{SKILLS}
+\sectionline
+
+\textbf{Programming Languages}: Python, Dart \\
+\textbf{ML / DL Frameworks}: PyTorch, Stable-Baselines3 \\
+\textbf{LLM \& Agent Frameworks}: Hugging Face, vLLM, DSPy, LangGraph \\
+\textbf{Tools}: Flutter, Streamlit
+
+\end{document}

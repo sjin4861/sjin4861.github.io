@@ -3,6 +3,7 @@ main:
     authors: "Sangwon Ryu, Heejin Do, <strong>Jun Seo</strong>, Daehui Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok"
     conference: "Interspeech 2026"
     conference_short: "Interspeech"
+    image: "assets/img/publication_preview/S3.png"
     pdf: "https://arxiv.org/pdf/2606.08445"
 
   - title: "A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation"
