@@ -10,6 +10,7 @@ My academic journey is deeply rooted in my practical experience teaching high sc
 
 ## News
 
+- **[Jun. 2026]** Our paper about Meeting Summarization is accepted to **Interspeech 2026**!
 - **[Apr. 2026]** Our paper about Automatic Item Generation is accepted to **ACL 2026 (Main)**!
 - **[Apr. 2026]** Our paper about Knowledge Tracing is accepted to **ACL 2026 (Findings)**!
 - **[Nov. 2025]** Awarded the **STEM Master’s Excellence Scholarship** (Fall 2025) by Korea Student Aid Foundation.

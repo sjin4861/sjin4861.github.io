@@ -1,9 +1,15 @@
 main:
+  - title: "Segment-level Tree Search for Long Meeting Document Summarization"
+    authors: "Sangwon Ryu, Heejin Do, <strong>Jun Seo</strong>, Daehui Kim, Yunsu Kim, Gary Geunbae Lee, Jungseul Ok"
+    conference: "Interspeech 2026"
+    conference_short: "Interspeech"
+    pdf: "https://arxiv.org/pdf/2606.08445"
+
   - title: "A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation"
     authors: "Seonjeong Hwang, <strong>Jun Seo</strong>, Hyounghun Kim, Gary Geunbae Lee"
     conference: "ACL Main 2026"
     image: "assets/img/publication_preview/mafig.png" 
-    pdf: "https://sjin4861.github.io"
+    pdf: "https://arxiv.org/pdf/2605.19316"
 
   - title: "Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing"
     authors: "<strong>Jun Seo</strong>*, Sangwon Ryu*, Heejin Do†, Hyounghun Kim, Gary Geunbae Lee†"
